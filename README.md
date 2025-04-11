@@ -90,6 +90,10 @@ Appuyez sur `Ctrl + C` pour arrêter proprement le programme. Le script exécute
 
 ---
 
+![Aperçu des identifiant node red](./images/apercu_script.png)
+
+---
+
 ## 🧠 À noter
 
 - Si tu as des erreurs avec le capteur DHT11, c’est courant. Il est un peu capricieux.
